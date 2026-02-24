@@ -45,7 +45,7 @@ The dataset contains retail transactions including date, time, customer details,
 
 ---
 
-## 📚 Skills Learned
+## 📚 Skills Used
 - SQL data cleaning  
 - DAX measure creation  
 - Power BI modeling  
@@ -53,9 +53,3 @@ The dataset contains retail transactions including date, time, customer details,
 - Business insights & storytelling  
 
 
-
----
-
-## 👤 Author
-**Aniruddha Ghosh**  
-Feel free to reach out for collaboration.
